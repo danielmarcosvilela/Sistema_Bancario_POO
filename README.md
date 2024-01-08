@@ -1,3 +1,3 @@
 # Sistema_Bancario_POO
 
-Aplicação de orientações a objetos no siatema bancario.
+Aplicação de orientações a objetos no sistema bancário.
